@@ -1,0 +1,3 @@
+work	"read_file.vhd"
+work	"top.vhd"
+work	"write_file.vhd"
